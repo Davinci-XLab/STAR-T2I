@@ -1,9 +1,13 @@
 <div align="center">
+    <h1> 
+        STAR: 
+        <span style="color:rgb(255, 242, 140);">S</span>cale-wise 
+        <span style="color:rgb(255, 242, 140);">T</span>ext-conditioned 
+        <span style="color:rgb(255, 242, 140);">A</span>uto<span style="color:rgb(251, 228, 134);">R</span>egressive image generation
+    </h1>
+</div>
 
-<p align="center" style="font-size: larger;">
-  <a href="https://arxiv.org/abs/2406.10797">STAR: Scale-wise Text-conditioned AutoRegressive image generation</a>
-</p>
-
+<div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2406.10797-b31b1b.svg)](https://arxiv.org/abs/2406.10797)&nbsp;
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-STAR/star-yellow)](https://huggingface.co/taocrayon/STAR)&nbsp;
@@ -135,6 +139,9 @@ If our work assists your research, feel free to give us a star ⭐ or cite us us
   year={2024}
 }
 ```
+
+## 6. Join Our Team!
+We’re looking for interns focused on multimodal generation and understanding. If interested, feel free to send your resume to liang0305tao@163.com.
 
 
 
