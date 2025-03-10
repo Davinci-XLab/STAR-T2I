@@ -226,7 +226,7 @@ class VAR(nn.Module):
             nn.init.trunc_normal_(self.lvl_embed_2.weight.data, mean=0, std=init_std)
 
         else:
-            pass
+            self.from_idx=math.inf
 
         self.train_mode=train_mode
         if self.train_mode=='head_only':
