@@ -93,7 +93,7 @@ def run_model(prompt, more_smooth, cfg, top_k, top_p, seed):
                             cfg=cfg, top_k=top_k,
                             top_p=top_p, g_seed=seed,
                             more_smooth=False,
-                            w_mask=True,
+                            w_mask=enable_logit_norm,
                             sample_version='1024'
                         )
             
